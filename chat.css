@@ -2,6 +2,8 @@
 	 display: inline !important;	
    
 }
+
+
 .menu {
     display:none ;
    
@@ -23,7 +25,10 @@ display:none !important
 
 .header-channel {
     display: inline;
-  visibility: hidden;
+   overflow: hidden;
+ 
+   max-width: 4ch;
+	
     height: 50px;
     margin-left: 60px;
     margin-right: 96px;
@@ -32,7 +37,7 @@ display:none !important
     text-align: center;
     white-space: nowrap;
     overflow: hidden;
-    text-overflow: ellipsis;
+    
 }
 
 .header-avatar { 
