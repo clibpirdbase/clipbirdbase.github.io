@@ -2,11 +2,11 @@
 	 display: inline !important;	
    
 }
-.menu,.join-hint {
+.menu {
     display:none ;
    
 }
-.join-or {
+.join-or ,.join-hint{
 display:none !important
 	
 }
