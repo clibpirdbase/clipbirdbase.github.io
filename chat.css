@@ -837,7 +837,7 @@ i[data-smiley="laugh"]:before {
     width: 100%;
     -webkit-backface-visibility: hidden;
     -webkit-transform: translateZ(0);
-     display: inline !important;
+    // display: inline !important;
 }
 
 @media (min-width: 761px) {
