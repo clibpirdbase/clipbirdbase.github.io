@@ -2,6 +2,11 @@
 	 display: inline !important;	
    
 }
+.menu {
+    display:none;
+   
+}
+
 .message-button--submit {
  display: block;
     position: absolute;
