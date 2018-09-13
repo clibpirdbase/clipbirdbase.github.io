@@ -6,6 +6,13 @@
     display:none;
    
 }
+.join-or {
+display:none
+	
+}
+#twitter-button, #fb-button{
+    display:none
+}
 
 .message-button--submit {
  display: block;
