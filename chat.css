@@ -2,7 +2,7 @@
 	 display: inline !important;	
    
 }
-.menu {
+.menu,.join-hint {
     display:none ;
    
 }
