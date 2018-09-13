@@ -2,6 +2,12 @@
 	 display: inline !important;	
    
 }
+.message-button--submit {
+ display: block;
+    position: absolute;
+    top: 9px;
+    right: 9px;
+}
 
 .header-channel {
     display: inline;
