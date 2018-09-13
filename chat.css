@@ -24,9 +24,9 @@ display:none !important
 }
 
 .header-channel {
-    display: inline;
+   //  display: inline;
    overflow: hidden;
- 
+ 	
    max-width: 4ch;
 	
     height: 50px;
@@ -35,8 +35,8 @@ display:none !important
     font: normal 32px/46px 'Terminal Dosis', sans-serif;
     color: rgba(255,255,255,0.8);
     text-align: center;
-    white-space: nowrap;
-    overflow: hidden;
+       text-overflow: clip;
+  
     
 }
 
