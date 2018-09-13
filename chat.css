@@ -14,4 +14,7 @@
     text-overflow: ellipsis;
 }
 
+.header-avatar { 
+display:none;
+}
 
