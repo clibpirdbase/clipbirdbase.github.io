@@ -3,15 +3,15 @@
    
 }
 .menu {
-    display:none;
+    display:none ;
    
 }
 .join-or {
-display:none
+display:none !important
 	
 }
 #twitter-button, #fb-button{
-    display:none
+    display:none !important
 }
 
 .message-button--submit {
